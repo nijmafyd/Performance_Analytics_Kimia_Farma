@@ -8,7 +8,7 @@ Data mentah tersebut diolah mulai dari awal hingga akhir untuk mencari hubungan 
 ### Data Overview and Description
 | Mandatory Column        | Description                                                            |
 |-------------------------|------------------------------------------------------------------------|
-| `transaction_id'        | kode id transaksi.                                                     |
+| `transaction_id`        | kode id transaksi.                                                     |
 | `branch_id`             | Kode id cabang Kimia Farma.                                            |
 | `branch_name`           | Nama cabang Kimia Farma.                                               |
 | `kota`                  | Kota cabang Kimia Farma.                                               |
